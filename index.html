@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>XDUARR</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+</body>
+<div id="intro">
+    <div class="intro-content">
+        <h1>XDUARR</h1>
+        <p>One Class, A Thousand Stories</p>
+	<p class="enter-btn" onclick="enterSite()">
+        	<button onclick="enterSite()">Enter</button>	
+	</p>
+    </div>
+</div>
+
+<div id="main-content">
+    <!-- isi website kamu mulai dari opening, foto kelas, dll -->
+
+
+<section class="opening">
+    <h1>XDUARR</h1>
+    <p>
+        Kelak ketika waktu membawa kita berjalan ke arah yang berbeda, 
+        dinding-dinding kelas ini akan tetap menyimpan gema tawa kita. 
+        Menjadi temanmu adalah bagian terbaik dari kisah masa sekolah,
+        yang tak akan pernah pudar oleh waktu.
+    </p>
+</section>
+
+<section class="class-photo">
+    <img src="images/20250728-154516.jpg">
+    <img src="images/20250728-154516.jpg">
+</section>
+
+<p class="choose-text">
+    Dua puluh satu nama, dua puluh satu cerita.
+    Pilih satu, dan biarkan kenangan itu berbicara.
+</p>
+<section class="names">
+    <button onclick="showPerson('adzka')">Adzka</button>
+    <button onclick="showPerson('altamis')">Altamis</button>
+    <button onclick="showPerson('fira')">Fira</button>
+    <button onclick="showPerson('aufa')">Aufa</button>
+    <button onclick="showPerson('azriel')">Azriel</button>
+    <button onclick="showPerson('dinda')">Dinda</button>
+    <button onclick="showPerson('fahna')">Fahna</button>
+    <button onclick="showPerson('gayatri')">Gayatri</button>
+    <button onclick="showPerson('hanum')">Hanum</button>
+    <button onclick="showPerson('khairani')">Khairani</button>
+    <button onclick="showPerson('husna')">Husna</button>
+    <button onclick="showPerson('bahama')">Bahama</button>
+    <button onclick="showPerson('naufal')">Naufal</button>
+    <button onclick="showPerson('nadhira')">Nadhira</button>
+    <button onclick="showPerson('najma')">Najma</button>
+    <button onclick="showPerson('nayra')">Nayra</button>
+    <button onclick="showPerson('rakha')">Rakha</button>
+    <button onclick="showPerson('ayyub')">Ayyubi</button>
+    <button onclick="showPerson('shofi')">Shofi</button>
+    <button onclick="showPerson('terbit')">Terbit</button>
+    <button onclick="showPerson('zaidan')">Zaidan</button>
+    
+</section>
+
+<section id="detail" style="display:none;">
+    <img id="personImg">
+    <h3 id="personName"></h3>
+    <p id="personMessage"></p>
+</section>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
