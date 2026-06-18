@@ -122,6 +122,3 @@ function enterSite(){
     }, 700);
 }
 
-function openLetter(){
-    document.getElementById("letter").style.display = "block";
-}
