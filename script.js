@@ -121,3 +121,7 @@ function enterSite(){
         document.getElementById("main-content").style.display = "block";
     }, 700);
 }
+
+function openLetter(){
+    document.getElementById("letter").style.display = "block";
+}
