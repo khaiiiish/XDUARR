@@ -360,18 +360,45 @@ footer{
     }
 }
 
-@keyframes slideDown{
-    0%{
-        opacity:0;
-        transform:translateY(-150px);
+#detail{
+    display: none;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 90%;
+    max-width: 700px;
+    max-height: 85vh;
+
+    overflow-y: auto;
+
+    background: #E8D8C4;
+    color: #561C24;
+
+    padding: 30px;
+    border-radius: 25px;
+
+    text-align: center;
+    z-index: 9999;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+
+.show-detail{
+    animation: popupDown 0.6s ease;
+}
+
+@keyframes popupDown{
+    from{
+        opacity: 0;
+        transform: translate(-50%, -80%);
     }
 
-    70%{
-        transform:translateY(15px);
-    }
-
-    100%{
-        opacity:1;
-        transform:translateY(0);
+    to{
+        opacity: 1;
+        transform: translate(-50%, -50%);
     }
 }
