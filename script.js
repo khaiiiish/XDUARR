@@ -90,8 +90,8 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
-1.
-2.
+1. TATIBB, OMGG SMGT YHHH
+2. "guys.., bisa diem dulu gak?"
 3.`
     },
     
