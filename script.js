@@ -139,7 +139,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. RISPEKK🫡🔥
-2. TATIBB
+2. TATIBB, OMGG SMGT YHHH
 3.`
     },
     
