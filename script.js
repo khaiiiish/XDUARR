@@ -164,7 +164,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "GUYS JANLUP TUGAS YAK" 📢📚
 2. Keren 😎✨
-3. INFOR`
+3. INFOR🖱️⌨️🖥️`
     },
     
     najma: {
@@ -247,7 +247,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "gua belom belajar coo"🤥🤥
-2.
+2. one, two, one be the onee, ahayy
 3.`
     }
 };
