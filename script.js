@@ -258,7 +258,7 @@ function showPerson(id){
     document.getElementById("detail").style.display = "block";
     document.getElementById("personImg").src = person.img;
     document.getElementById("personName").textContent = person.name;
-    document.getElementById("personMessage").textContent = person.msg;
+    document.getElementById("personMessage").innerText = person.msg;
 }
 
 function enterSite(){
