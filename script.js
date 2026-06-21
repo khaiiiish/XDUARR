@@ -254,8 +254,14 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 function showPerson(id){
     const person = messages[id];
+    const detail = document.getElementById("detail");
 
-    document.getElementById("detail").style.display = "block";
+    detail.style.display = "block";
+
+    detail.classList.remove("show-detail");
+    void detail.offsetWidth; // reset animasi
+    detail.classList.add("show-detail");
+
     document.getElementById("personImg").src = person.img;
     document.getElementById("personName").textContent = person.name;
     document.getElementById("personMessage").innerText = person.msg;
