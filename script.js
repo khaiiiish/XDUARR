@@ -1,4 +1,4 @@
-const data = {
+const messages = {
     adzka: {
         img: "Adzka.png",
         name: "Adzka",
@@ -253,10 +253,12 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 };
 
 function showPerson(id){
+    const person = messages[id];
+
     document.getElementById("detail").style.display = "block";
-    document.getElementById("personImg").src = data[id].img;
-    document.getElementById("personName").textContent = data[id].name;
-    document.getElementById("personMessage").textContent = data[id].msg;
+    document.getElementById("personImg").src = person.img;
+    document.getElementById("personName").textContent = person.name;
+    document.getElementById("personMessage").textContent = person.msg;
 }
 
 function enterSite(){
