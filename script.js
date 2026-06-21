@@ -103,7 +103,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Jago bicara🎙️🔬
-2.
+2. 
 3.`
     },
     
