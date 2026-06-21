@@ -259,12 +259,12 @@ function showPerson(id){
     detail.style.display = "block";
 
     detail.classList.remove("show-detail");
-    void detail.offsetWidth; // reset animasi
+    void detail.offsetWidth;
     detail.classList.add("show-detail");
 
-    document.getElementById("personImg").src = person.img;
-    document.getElementById("personName").textContent = person.name;
-    document.getElementById("personMessage").innerText = person.msg;
+    personImg.src = person.img;
+    personName.textContent = person.name;
+    personMessage.innerText = person.msg;
 }
 
 function enterSite(){
