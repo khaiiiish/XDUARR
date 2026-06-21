@@ -1,4 +1,4 @@
-const messages = {
+const data = {
     adzka: {
         img: "Adzka.png",
         name: "Adzka",
