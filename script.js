@@ -1,49 +1,44 @@
-    const messages = {
-adzka: {
-img: "Adzka.png",
-name: "Adzka",
-msg: `Terima kasih sudah menjadi bagian dari cerita kelas ini. Semoga langkahmu di kelas 11 dipenuhi keberanian dan tawa dan hal baik yang tak terduga.
+const messages = {
+    adzka: {
+        img: "Adzka.png",
+        name: "Adzka",
+        msg: `Terima kasih sudah menjadi bagian dari cerita kelas ini. Semoga langkahmu di kelas 11 dipenuhi keberanian dan tawa dan hal baik yang tak terduga.
 
-Btw nih ada 3 kata yang kata gua ini lo banget:
+        Btw nih ada 3 kata yang kata gua ini lo banget:
 
-1. GEO🌎🪨🌥
-2. AMBIS 🔥🔥
-3. Aceng lah nama panggilannya 😎🤙`
+        1. GEO🌎🪨🌥
+        2. AMBIS 🔥🔥
+        3. Aceng lah nama panggilannya 😎🤙`
    },
 
    altamis: {
-   img: "alta.png",
-   name: "Altamis",
-   msg: `Semoga setiap halaman baru di kelas 11 membawa pengalaman indah yang kelak akan menjadi kenangan yang selalu dirindukan.
-
-Btw nih ada 3 kata yang kata gua ini lo banget:
-
-1. Mabar skuy😬🎮
-2. Tengil😵😂
-3. "aman kalo ada gua mah" 🤥🫨🫡`
+       img: "alta.png",
+       name: "Altamis",
+       msg: `Semoga setiap halaman baru di kelas 11 membawa pengalaman indah yang kelak akan menjadi kenangan yang selalu dirindukan.
+       Btw nih ada 3 kata yang kata gua ini lo banget:
+       1. Mabar skuy😬🎮
+       2. Tengil😵😂
+       3. "aman kalo ada gua mah" 🤥🫨🫡`
    },
 
    fira: {
-   img: "Fira.jpeg",
-   name: "Fira",
-   msg: `Tetaplah bersinar dengan caramu sendiri. Semoga hari-harimu di kelas 11 dipenuhi kebahagiaan dan mimpi yang semakin dekat untuk digapai.
-
-Btw nih ada 3 kata yang kata gua ini lo banget:
-
-1. Rajin 📚✨
-2. Hapalannya GACORRR 🧠🔥
-3. Kalem 😌🌷`
+       img: "Fira.jpeg",
+       name: "Fira",
+       msg: `Tetaplah bersinar dengan caramu sendiri. Semoga hari-harimu di kelas 11 dipenuhi kebahagiaan dan mimpi yang semakin dekat untuk digapai.
+       Btw nih ada 3 kata yang kata gua ini lo banget:
+       1. Rajin 📚✨
+       2. Hapalannya GACORRR 🧠🔥
+       3. Kalem 😌🌷`
    },
 
    aufa: {
-   img: "Aufa.jpeg",
-   name: "Aufa",
-   msg: `Semoga semangatmu tetap tumbuh seperti pagi yang selalu datang membawa harapan baru di setiap harinya.
-
-Btw nih ada 3 kata yang kata gua ini lo banget:
-1.Ijo warna kesukannya🟢
-2.
-3.`
+       img: "Aufa.jpeg",
+       name: "Aufa",
+       msg: `Semoga semangatmu tetap tumbuh seperti pagi yang selalu datang membawa harapan baru di setiap harinya.
+       Btw nih ada 3 kata yang kata gua ini lo banget:
+       1.Ijo warna kesukannya🟢
+       2.
+       3.`
 },
 
 ```
@@ -52,7 +47,6 @@ azriel: {
     name: "Azriel",
     msg: `Jangan takut pada perjalanan yang panjang, karena setiap langkah kecilmu hari ini sedang membangun masa depan yang hebat.
 ```
-
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. MULMEDD 🎨💻
