@@ -103,7 +103,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Jago bicara🎙️🔬
-2. 
+2. orangnya konsisten, kata gua mah💫
 3.`
     },
     
@@ -223,7 +223,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. IMTAQ OMBRE🕌💄✨
-2.
+2. "sini pake hp guah"
 3.`
     },
     
@@ -235,7 +235,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "TIGA KATA LUCU!!" 😭😂
-2. Shalawatan
+2. Shalawatan🎤☪️
 3.`
     },
     
