@@ -56,7 +56,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. MULMEDD 🎨💻
 2. Design 🖌️✨
-3.`
+3. hampir lupa nihh, OUR WATEKUUUUUU🤠🤠`
     },
 
     dinda: {
@@ -115,8 +115,8 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. KODINGGGGG⌨️💻
-2.
-3.`
+2. ORANG SABAR MANALAGI 🧘
+3. "nih.., gini lhoo"`
     },
     
     husna: {
