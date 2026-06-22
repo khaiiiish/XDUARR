@@ -252,29 +252,42 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
     }
 };
 
-function showPerson(id) {
+function showPerson(id){
     const person = messages[id];
     const detail = document.getElementById("detail");
 
-    detail.style.display = "block";
+    detail.style.display = "flex";
 
     detail.classList.remove("show-detail");
     void detail.offsetWidth;
     detail.classList.add("show-detail");
 
-    personImg.src = person.img;
-    personName.textContent = person.name;
-    personMessage.innerText = person.msg;
+    document.getElementById("personImg").src = person.img;
+    document.getElementById("personName").textContent = person.name;
+    document.getElementById("personMessage").innerText = person.msg;
 }
 
-function closeDetail() {
+function closeDetail(){
+    document.getElementById("detail").style.display = "none";
+}
+
+document.addEventListener("DOMContentLoaded", () => {
     const detail = document.getElementById("detail");
 
-    detail.classList.remove("show-detail");
-    detail.style.display = "none";
-}
+    detail.addEventListener("click", function(e){
+        if(e.target === detail){
+            closeDetail();
+        }
+    });
 
-function enterSite() {
+    document.addEventListener("keydown", function(e){
+        if(e.key === "Escape"){
+            closeDetail();
+        }
+    });
+});
+
+function enterSite(){
     document.getElementById("intro").style.opacity = "0";
 
     setTimeout(() => {
@@ -282,18 +295,3 @@ function enterSite() {
         document.getElementById("main-content").style.display = "block";
     }, 700);
 }
-
-// Tutup popup kalau pencet tombol ESC
-document.addEventListener("keydown", function(event) {
-    if (event.key === "Escape") {
-        closeDetail();
-    }
-});
-
-// Tutup popup kalau klik area luar
-document.getElementById("detail").addEventListener("click", function(event) {
-    if (event.target === this) {
-        closeDetail();
-    }
-});
-
