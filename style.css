@@ -13,14 +13,13 @@
 }
 
 .popup-content{
-    background: white;
-    width: min(500px,90%);
+    background: #E8D8C4;
+    width: min(700px,90%);
     padding: 25px;
     border-radius: 20px;
     text-align: center;
     position: relative;
 }
-
 .close-btn{
     position: absolute;
     top: 10px;
@@ -123,17 +122,6 @@ header p{
 
 /* DETAIL SISWA */
 
-#detail{
-    display: none;
-    max-width: 700px;
-    margin: 50px auto 100px;
-    padding: 30px;
-    background: #E8D8C4;
-    color: #561C24;
-    border-radius: 25px;
-    text-align: center;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.25);
-}
 
 #detail img{
     width: 220px;
@@ -394,32 +382,7 @@ footer{
     }
 }
 
-#detail{
-    display: none;
 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-
-    transform: translate(-50%, -50%);
-
-    width: 90%;
-
-    background: #E8D8C4;
-    color: #561C24;
-
-    padding: 30px;
-    border-radius: 25px;
-
-    text-align: center;
-    z-index: 9999;
-
-    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-}
-
-.show-detail{
-    animation: popupDown 0.6s ease;
-}
 
 @keyframes popupDown{
     from{
