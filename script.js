@@ -6,7 +6,7 @@ const messages = {
 
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
-1. GEO🌎🪨🌥
+1. GEO dan KOSSMI🌎🪨🌥
 2. AMBIS 🔥🔥
 3. Aceng lah nama panggilannya 😎🤙`
     },
@@ -18,7 +18,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
-1. Mabar skuy😬🎮
+1. Mabar skuy😬🎮 
 2. Tengil😵😂
 3. "aman kalo ada gua mah" 🤥🫨🫡`
     },
@@ -32,7 +32,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Rajin 📚✨
 2. Hapalannya GACORRR 🧠🔥
-3. `
+3. Jangan mudah nyerah, Okayy?`
     },
 
     aufa: {
@@ -54,7 +54,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
-1. MULMEDD 🎨💻
+1. MULMEDD SEJATI 🎨💻
 2. Design 🖌️✨
 3. hampir lupa nihh, OUR WATEKUUUUUU🤠🤠`
     },
@@ -67,7 +67,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Always dengan senyumnya😊
-2. "bentar, gue tanya dulu ke my friend gue"📚🖊️
+2. "bentar, gue tanya dulu ke my friend (erm, temen onlen) gue"📚🖊️
 3. MUN omaigattt🌍🗣️🎤`
     },
     
@@ -80,7 +80,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "IH RUNGSING DEH GUA" 😭💀
 2. "siapa mau ke kopinn??"😋💸💳
-3. "yaudah, iya pake laptop gua nih.."📷🎥💻`
+3. "yaudah, iya pake laptop gua nih.."📷🎥💻 3...2...1`
     },
     
     gayatri: {
@@ -92,7 +92,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. TATIBB, OMGG SMGT YHHH
 2. "guys.., bisa diem dulu gak?"
-3. AYO BAYAR KASSSSSS!!!! 💵💸💰`
+3. AYO BAYAR KASSSSSS!!!! 💵💸💰 (wadoh)`
     },
     
     hanum: {
@@ -104,7 +104,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Jago bicara🎙️🔬
 2. orangnya konsisten, kata gua mah💫
-3. full senyum, di kondisi apapun😁🙂🙂`
+3. full senyum, di kondisi apapun😁🙂🙂 dan selalu mengawali dengan basmallah`
     },
     
     khairani: {
@@ -140,7 +140,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. RISPEKK🫡🔥
 2. TATIBB, OMGG SMGT YHHH
-3.Si paling bisa diandelin 🤝😎`
+3.Si paling bisa diandelin 🤝😎, (bahama, boleh titip print tidak?)`
     },
     
     naufal: {
@@ -151,8 +151,8 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. SI PALING KATA-KATA 😏📜
-2. Masih dengan pose sigmanya🤫🙂‍↔️🗿
-3. WLEE😝🔥`
+2. Masih dengan pose sigmanya dan wlee🤫🙂‍↔️🗿😝
+3. Kritis sih terkadang`
     },
     
     nadhira: {
@@ -163,7 +163,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "GUYS JANLUP TUGAS YAK" 📢📚
-2. Keren 😎✨
+2. NPD (kalo katanya mah "Nadhira pandai & dermawan")
 3. INFOR🖱️⌨️🖥️`
     },
     
@@ -176,7 +176,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "ayo follow akun X kitaa" 📱✨
 2. PPBN🫡🦅
-3. `
+3. Distributor Mie (najemm, ada mie tidakkk?)`
     },
     
     nayra: {
@@ -187,7 +187,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. OUR BU TEKUUU🥰💖
-2. "emang boleh ya ke sajan????!!" 😭🤣
+2. "emang boleh ya ke sajan????!!" 😭🤣 (bolehin pls)
 3. "AYO GUYSS FOTOOO" 📸🤳✨`
     },
     
@@ -199,7 +199,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. MTK📏➕✖️➗➖
-2. "kata orang gua mirip jerome"🫨😂
+2. "kata orang gua mirip jerome"🫨😂 (erm, gmn yh?)
 3."aman ajaa.."🙂‍↕️`
     },
     
@@ -212,7 +212,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. BIOOO🧬🧫🔬
 2. India 🇮🇳
-3. IPA Murni`
+3. IPA Murni dan Tutor fisika (thx btw)`
     },
     
     shofi: {
@@ -247,7 +247,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "gua belom belajar coo"🤥🤥
-2. Pas ujian malah aman 😭🔥
+2. Pas ujian malah aman 😭🔥, mana kdg 90an🤥
 3. one, two, one be the onee, ahayy🎤`
     }
 };
