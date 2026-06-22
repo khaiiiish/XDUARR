@@ -89,6 +89,17 @@
 
     animation: duarBoom 2s ease-in-out infinite;
 }
+.logo-side{
+    width: 70px;
+}
+
+.left .logo-side{
+    animation: duarBoom 2s infinite;
+}
+
+.right .logo-side{
+    animation: duarBoom 2s infinite 1s;
+}
 #personName{
     color: #561C24 !important;
 }
