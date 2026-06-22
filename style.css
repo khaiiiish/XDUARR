@@ -35,7 +35,7 @@
     display: block;
     margin: 0 auto 20px;
 
-    animation: duarBoom 2s ease-in-out infinite;
+    animation: duarBoom 1.5s ease-in-out infinite;
 }
 
 @keyframes duarBoom{
