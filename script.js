@@ -43,7 +43,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Ijo warna kesukannya🟢
-2.
+2. 
 3.`
     },
 
@@ -79,7 +79,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "IH RUNGSING DEH GUA" 😭💀
-2.
+2. "siapa mau ke kopinn??"😋💸💳
 3.`
     },
     
@@ -140,7 +140,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. RISPEKK🫡🔥
 2. TATIBB, OMGG SMGT YHHH
-3.`
+3.Si paling bisa diandelin 🤝😎`
     },
     
     naufal: {
@@ -223,7 +223,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. IMTAQ OMBRE🕌💄✨
-2. "sini pake hp guah"
+2. ECONOMICUSS💵💸📈
 3. AURELLLLLLLLLLL`
     },
     
@@ -248,7 +248,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "gua belom belajar coo"🤥🤥
 2. one, two, one be the onee, ahayy
-3.`
+3. Pas ujian malah aman 😭🔥`
     }
 };
 
