@@ -3,6 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+#detail{
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.6);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.popup-content{
+    background: white;
+    width: min(500px,90%);
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.close-btn{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    border: none;
+    background: transparent;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+#personImg{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+}
 
 body{
     font-family: 'Poppins', sans-serif;
