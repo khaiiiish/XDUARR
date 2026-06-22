@@ -1,32 +1,40 @@
-.opening {
-    position: relative;
-    min-height: 100vh;
+#intro{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     overflow: hidden;
+    z-index: 9999;
 }
 
-.opening::before {
-    content: "";
-    position: absolute;
-    inset: 0;
+#intro::before{
+    content:"";
+    position:absolute;
+    inset:0;
 
-    background-image: url("kolase.png");
-    background-size: cover;
-    background-position: center;
+    background:url("kolase.png") center/cover no-repeat;
 
-    opacity: 0.25; /* transparansi foto */
-    
-    z-index: 0;
+    opacity:0.25;
+    filter:blur(2px);
+
+    z-index:-1;
 }
 
-.opening-content {
-    position: relative;
-    z-index: 1;
+#intro::after{
+    content:"";
+    position:absolute;
+    inset:0;
+
+    background:rgba(86,28,36,0.55); /* warna marun transparan */
+    z-index:-1;
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 #detail{
     display: none;
     position: fixed;
