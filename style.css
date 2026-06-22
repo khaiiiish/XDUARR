@@ -4,14 +4,17 @@
     box-sizing: border-box;
 }
 #detail{
+    display: none;
     position: fixed;
     inset: 0;
+
     background: rgba(0,0,0,.6);
+
     justify-content: center;
     align-items: center;
+
     z-index: 9999;
 }
-
 .popup-content{
     background: #E8D8C4;
     width: min(700px,90%);
@@ -19,7 +22,11 @@
     border-radius: 20px;
     text-align: center;
     position: relative;
+
+    max-height: 90vh;
+    overflow-y: auto;
 }
+
 .close-btn{
     position: absolute;
     top: 10px;
@@ -200,10 +207,6 @@ footer{
 
     .opening{
         font-size: 1rem;
-    }
-
-    #detail{
-        margin: 30px 20px 80px;
     }
 
     #detail img{
