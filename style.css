@@ -111,6 +111,21 @@
 .popup-content{
     color: #561C24 !important;
 }
+.logo-left{
+    position: fixed !important;
+    top: 20px !important;
+    left: 20px !important;
+    width: 80px;
+    z-index: 9999;
+}
+
+.logo-right{
+    position: fixed !important;
+    top: 20px !important;
+    right: 20px !important;
+    width: 80px;
+    z-index: 9999;
+}
 
 .close-btn{
     position: absolute;
