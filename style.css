@@ -25,6 +25,8 @@
 
     max-height: 90vh;
     overflow-y: auto;
+    color: #561C24;
+    
 }
 
 .close-btn{
@@ -142,11 +144,13 @@ header p{
 #detail h3{
     font-size: 2rem;
     margin-bottom: 15px;
+    color: #561C24;
 }
 
 #detail p{
     font-size: 1.1rem;
     line-height: 1.8;
+    color: #561C24;
 }
 
 /* CARD JIKA MASIH DIPAKAI */
