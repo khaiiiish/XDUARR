@@ -32,7 +32,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Rajin 📚✨
 2. Hapalannya GACORRR 🧠🔥
-3. Kalem 😌🌷`
+3. `
     },
 
     aufa: {
