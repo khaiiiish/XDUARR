@@ -67,7 +67,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Always dengan senyumnya😊
-2.
+2. 
 3.`
     },
     
@@ -92,7 +92,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. TATIBB, OMGG SMGT YHHH
 2. "guys.., bisa diem dulu gak?"
-3.`
+3. AYO BAYAR KASSSSSS!!!! 💵💸💰`
     },
     
     hanum: {
@@ -224,7 +224,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. IMTAQ OMBRE🕌💄✨
 2. "sini pake hp guah"
-3.`
+3. AURELLLLLLLLLLL`
     },
     
     terbit: {
