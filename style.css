@@ -37,6 +37,24 @@
 
     animation: duarBoom 1.5s ease-in-out infinite;
 }
+.corner-logo{
+    position: fixed !important;
+    top: 20px !important;
+    z-index: 9999;
+}
+
+.corner-logo.left{
+    left: 20px !important;
+}
+
+.corner-logo.right{
+    right: 20px !important;
+}
+
+.logo-side{
+    width: 80px;
+    height: auto;
+}
 
 @keyframes duarBoom{
 
