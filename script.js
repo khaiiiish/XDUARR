@@ -44,7 +44,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Ijo warna kesukannya🟢
 2. "okee, paham ga?"📚🖊️
-3.`
+3. kalem si kliatannya, eh tapi ternyata tantrum juga dia awokwaowk`
     },
 
     azriel: {
@@ -68,7 +68,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Always dengan senyumnya😊
 2. "bentar, gue tanya dulu ke my friend gue"📚🖊️
-3.`
+3. MUN omaigattt🌍🗣️🎤`
     },
     
     fahna: {
@@ -80,7 +80,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "IH RUNGSING DEH GUA" 😭💀
 2. "siapa mau ke kopinn??"😋💸💳
-3.`
+3. "yaudah, iya pake laptop gua nih.."📷🎥💻`
     },
     
     gayatri: {
@@ -175,8 +175,8 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "ayo follow akun X kitaa" 📱✨
-2.
-3.`
+2. PPBN🫡🦅
+3. `
     },
     
     nayra: {
@@ -200,7 +200,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. MTK📏➕✖️➗➖
 2. "kata orang gua mirip jerome"🫨😂
-3.`
+3."aman ajaa.."🙂‍↕️`
     },
     
     ayyub: {
@@ -236,7 +236,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "TIGA KATA LUCU!!" 😭😂
 2. Shalawatan🎤☪️
-3.`
+3. bastian.....`
     },
     
     zaidan: {
