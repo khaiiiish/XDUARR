@@ -70,35 +70,27 @@
 }
 .corner-logo{
     position: fixed;
-    z-index: 1000;
+    top: 20px;
+    z-index: 99999;
+    pointer-events: none;
 }
 
 .corner-logo.left{
-    top: 20px;
     left: 20px;
 }
 
 .corner-logo.right{
-    top: 20px;
     right: 20px;
 }
 
 .logo-side{
-    width: 70px;
+    width: 80px;
     height: auto;
-
     animation: duarBoom 2s ease-in-out infinite;
-}
-.logo-side{
-    width: 70px;
-}
-
-.left .logo-side{
-    animation: duarBoom 2s infinite;
 }
 
 .right .logo-side{
-    animation: duarBoom 2s infinite 1s;
+    animation-delay: 1s;
 }
 #personName{
     color: #561C24 !important;
