@@ -252,7 +252,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
     }
 };
 
-function showPerson(id){
+function showPerson(id) {
     const person = messages[id];
     const detail = document.getElementById("detail");
 
@@ -267,7 +267,14 @@ function showPerson(id){
     personMessage.innerText = person.msg;
 }
 
-function enterSite(){
+function closeDetail() {
+    const detail = document.getElementById("detail");
+
+    detail.classList.remove("show-detail");
+    detail.style.display = "none";
+}
+
+function enterSite() {
     document.getElementById("intro").style.opacity = "0";
 
     setTimeout(() => {
@@ -275,4 +282,18 @@ function enterSite(){
         document.getElementById("main-content").style.display = "block";
     }, 700);
 }
+
+// Tutup popup kalau pencet tombol ESC
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Escape") {
+        closeDetail();
+    }
+});
+
+// Tutup popup kalau klik area luar
+document.getElementById("detail").addEventListener("click", function(event) {
+    if (event.target === this) {
+        closeDetail();
+    }
+});
 
