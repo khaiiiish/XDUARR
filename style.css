@@ -29,8 +29,13 @@
     
 }
 .logo-xduar{
-    width: 180px;
-    animation: explodeLogo 1s cubic-bezier(.17,.89,.32,1.49);
+    width: 90px;
+    height: auto;
+
+    display: block;
+    margin: 0 auto 15px;
+
+    animation: duar 1.5s ease-out forwards;
 }
 @keyframes explodeLogo{
     0%{
