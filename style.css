@@ -1,3 +1,27 @@
+.opening {
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.opening::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background-image: url("kolase.png");
+    background-size: cover;
+    background-position: center;
+
+    opacity: 0.25; /* transparansi foto */
+    
+    z-index: 0;
+}
+
+.opening-content {
+    position: relative;
+    z-index: 1;
+}
 *{
     margin: 0;
     padding: 0;
