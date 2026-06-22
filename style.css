@@ -29,21 +29,39 @@
     
 }
 .logo-xduar{
-    width: 70px;
+    width: 90px;
     height: auto;
 
     display: block;
-    margin: 0 auto 15px;
+    margin: 0 auto 20px;
 
-    animation: duar 2s ease-out infinite;
+    animation: duarBoom 2s ease-in-out infinite;
 }
-@keyframes pulseDuar{
+
+@keyframes duarBoom{
+
     0%{
-        transform: scale(1);
+        transform: scale(1) rotate(0deg);
     }
 
-    50%{
-        transform: scale(1.25);
+    10%{
+        transform: scale(0.8) rotate(-5deg);
+    }
+
+    30%{
+        transform: scale(1.5) rotate(8deg);
+    }
+
+    45%{
+        transform: scale(0.9) rotate(-4deg);
+    }
+
+    60%{
+        transform: scale(1.25) rotate(3deg);
+    }
+
+    80%{
+        transform: scale(1);
     }
 
     100%{
