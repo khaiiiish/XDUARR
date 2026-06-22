@@ -258,34 +258,15 @@ function showPerson(id){
 
     detail.style.display = "flex";
 
-    detail.classList.remove("show-detail");
-    void detail.offsetWidth;
-    detail.classList.add("show-detail");
-
     document.getElementById("personImg").src = person.img;
     document.getElementById("personName").textContent = person.name;
     document.getElementById("personMessage").innerText = person.msg;
 }
 
 function closeDetail(){
+    console.log("DITUTUP");
     document.getElementById("detail").style.display = "none";
 }
-
-document.addEventListener("DOMContentLoaded", () => {
-    const detail = document.getElementById("detail");
-
-    detail.addEventListener("click", function(e){
-        if(e.target === detail){
-            closeDetail();
-        }
-    });
-
-    document.addEventListener("keydown", function(e){
-        if(e.key === "Escape"){
-            closeDetail();
-        }
-    });
-});
 
 function enterSite(){
     document.getElementById("intro").style.opacity = "0";
