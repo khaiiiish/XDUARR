@@ -404,8 +404,6 @@ footer{
     transform: translate(-50%, -50%);
 
     width: 90%;
-    max-width: 700px;
-    max-height: 85vh;
 
     overflow-y: auto;
 
