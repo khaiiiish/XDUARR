@@ -28,6 +28,17 @@
     color: #561C24;
     
 }
+#personName{
+    color: #561C24 !important;
+}
+
+#personMessage{
+    color: #561C24 !important;
+}
+
+.popup-content{
+    color: #561C24 !important;
+}
 
 .close-btn{
     position: absolute;
