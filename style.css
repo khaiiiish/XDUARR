@@ -37,19 +37,17 @@
 
     animation: duar 2s ease-out infinite;
 }
-@keyframes explodeLogo{
+@keyframes pulseDuar{
     0%{
-        opacity:0;
-        transform:scale(0);
+        transform: scale(1);
     }
 
-    70%{
-        opacity:1;
-        transform:scale(1.8);
+    50%{
+        transform: scale(1.25);
     }
 
     100%{
-        transform:scale(1);
+        transform: scale(1);
     }
 }
 #personName{
