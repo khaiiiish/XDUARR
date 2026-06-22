@@ -180,6 +180,29 @@ header p{
     color: #E8D8C4;
     font-style: italic;
 }
+.corner-logo{
+    position: fixed;
+    top: 20px;
+    z-index: 9999;
+}
+
+.corner-logo.left{
+    left: 20px;
+}
+
+.corner-logo.right{
+    right: 20px;
+}
+
+.logo-side{
+    width: 80px;
+    height: auto;
+    animation: duarBoom 2s infinite;
+}
+
+.right .logo-side{
+    animation-delay: 1s;
+}
 
 /* KATA-KATA PEMBUKA */
 
