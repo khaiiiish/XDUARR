@@ -43,7 +43,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Ijo warna kesukannya🟢
-2. 
+2. "okee, paham ga?"📚🖊️
 3.`
     },
 
@@ -67,7 +67,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Always dengan senyumnya😊
-2. 
+2. "bentar, gue tanya dulu ke my friend gue"📚🖊️
 3.`
     },
     
@@ -104,7 +104,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. Jago bicara🎙️🔬
 2. orangnya konsisten, kata gua mah💫
-3.`
+3. full senyum, di kondisi apapun😁🙂🙂`
     },
     
     khairani: {
@@ -247,8 +247,8 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. "gua belom belajar coo"🤥🤥
-2. one, two, one be the onee, ahayy
-3. Pas ujian malah aman 😭🔥`
+2. Pas ujian malah aman 😭🔥
+3. one, two, one be the onee, ahayy🎤`
     }
 };
 
