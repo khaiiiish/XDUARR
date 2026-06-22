@@ -28,10 +28,12 @@
     color: #561C24;
     
 }
-.intro-logo{
+.logo-xduar{
     width: 180px;
-    display: block;
-    margin: 0 auto 20px;
+
+    animation: duar 1.5s ease-out forwards;
+
+    margin-bottom: 20px;
 }
 #personName{
     color: #561C24 !important;
