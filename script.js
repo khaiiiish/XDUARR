@@ -152,7 +152,7 @@ Btw nih ada 3 kata yang kata gua ini lo banget:
 
 1. SI PALING KATA-KATA 😏📜
 2. Masih dengan pose sigmanya dan wlee🤫🙂‍↔️🗿😝
-3. Kritis sih terkadang`
+3. DRUMMER🥁`
     },
     
     nadhira: {
